@@ -5,4 +5,4 @@
 #### Sexo: Masculino, Feminino
 #### Idade: Criança, Adulto
 #### Sobreviveu: Não, Sim
-##### O naufrágio do Titanic é um evento conhecido, a escolha de "mulheres e crianças primeiro" e o fato de que não foi totalmente bem-sucedida em salvar crianças e mulheres da 3º classe se reflete em resultados de sobreviventes de várias classes.
+##### O naufrágio do Titanic é um evento conhecido, a escolha de "mulheres e crianças primeiro" e o fato de que não foi totalmente bem-sucedida em salvar crianças e mulheres da 3º classe, se reflete em resultados de sobreviventes de várias classes.
